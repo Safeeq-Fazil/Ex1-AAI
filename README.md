@@ -2,7 +2,7 @@
 ## Register No: 212222240086
 ## Experiment 1
 ## DATE: 
-## Implementation of Bayesian Networks
+##      Implementation of Bayesian Networks
 ## Aim :
 To create a bayesian Network for the given dataset in Python
 
